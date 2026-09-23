@@ -9,8 +9,8 @@ Aplicativo de comunicação peer-to-peer (chamadas, chat, Watch Together, modo D
 
 ## Baixar
 
-- **Linux (x86_64):** [`harbor-linux-x86_64`](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest)
-- **Windows (x86_64):** [`harbor-windows-x86_64.exe`](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest)
+- **Linux (x86_64):** AppImage com dependências [`harbor-linux-x86_64.AppImage`](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest) — dê permissão de execução e abra
+- **Windows (x86_64):** instalador em PT-BR [`harbor-windows-x86_64-setup.exe`](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest) — inclui o WebView2 se necessário
 - **Android (x86_64):** [`harbor-android-x86_64.apk`](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest)
 
 Abra a [página da última Release](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest)
