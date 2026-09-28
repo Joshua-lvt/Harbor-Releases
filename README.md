@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/harbor-icon.png" width="140" alt="Harbor">
+<img src="./harbor.png" width="140" alt="Harbor">
 
 # Harbor
 
