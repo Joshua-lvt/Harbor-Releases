@@ -13,7 +13,6 @@ Um espaço feito para aproximar quem importa, mesmo quando vocês estão longe.
 [Baixar Harbor](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest)
 &nbsp;&nbsp;•&nbsp;&nbsp;
 [Harbor Releases](https://github.com/Joshua-lvt/Harbor-Releases)
-&nbsp;&nbsp;•&nbsp;&nbsp;
 
 </div>
 
@@ -21,7 +20,7 @@ Um espaço feito para aproximar quem importa, mesmo quando vocês estão longe.
 
 <div align="center">
 
-<img src="./assets/harbor-banner.png" width="900" alt="Harbor">
+<img src="./harbor.png" width="900" alt="Harbor">
 
 </div>
 
