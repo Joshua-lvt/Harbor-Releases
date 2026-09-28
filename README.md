@@ -24,10 +24,6 @@ O Harbor nasceu de uma ideia simples:
 
 **estar perto de alguém não deveria depender da distância.**
 
-Ele foi pensado para duas pessoas compartilharem momentos, conversarem,
-fazerem chamadas e acompanharem umas às outras de uma forma mais íntima,
-simples e pessoal.
-
 Mais do que apenas conversar, o Harbor foi criado para transmitir a sensação
 de que a outra pessoa está por perto.
 
@@ -36,9 +32,6 @@ de que a outra pessoa está por perto.
 ## Feito para duas pessoas
 
 O Harbor foi pensado especialmente para conexões entre parceiros.
-
-Você pode conversar, fazer chamadas, compartilhar sua tela, acompanhar a
-presença da outra pessoa e muito mais, tudo dentro de um mesmo espaço.
 
 Sem transformar sua relação em uma lista de servidores, canais ou grupos.
 
@@ -50,8 +43,7 @@ Só vocês.
 
 ### Conversar
 
-Tenha um espaço privado para trocar mensagens, imagens, GIFs, stickers,
-arquivos e outros momentos do dia a dia.
+Tenha um espaço privado para trocar mensagens, imagens, arquivos e outros momentos do dia a dia.
 
 ### Fazer chamadas
 
@@ -65,13 +57,6 @@ Mostre o que está acontecendo no seu computador ou celular em tempo real.
 Assista algo junto, ajude em alguma tarefa, mostre um jogo ou simplesmente
 compartilhe aquele momento.
 
-### Continuar conectado pelo celular
-
-O Harbor Mobile permite continuar conectado mesmo quando o computador não
-está por perto.
-
-No modo Companion, o celular pode funcionar como uma extensão da sua presença
-no Harbor, mantendo a conexão mesmo quando o computador estiver desligado.
 
 ### Presença
 
@@ -100,7 +85,7 @@ momento de forma mais tranquila.
 
 ### Assistir juntos
 
-Compartilhe uma sessão de vídeo e sincronize momentos para assistir algo
+Compartilhe uma sessão de vídeo via YouTube e sincronize momentos para assistir algo
 junto mesmo estando em lugares diferentes.
 
 ---
@@ -126,13 +111,12 @@ parte natural da rotina de vocês.
 
 ---
 
-## Harbor Mobile
+## Harbor Mobile e Companion
 
 O Harbor não termina no computador.
 
 Com o Harbor Mobile, seu celular pode participar da experiência de forma
-independente, permitindo continuar conectado mesmo quando o computador estiver
-desligado.
+independente, permitindo continuar conectado mesmo quando o parceiro não tem um computador.
 
 O modo Companion transforma o celular em uma extensão da sua presença no
 Harbor, sem precisar transformar o computador em um intermediário.
@@ -147,6 +131,9 @@ ser adaptada ao seu gosto, mantendo a identidade visual do projeto.
 A personalização faz parte da ideia de transformar o Harbor em um espaço que
 realmente pareça seu.
 
+Você pode customizar os sons padrão de notificação do seu parceiro. Coloque um som especial
+para ele ouvir sempre que você mandar mensagem ou fizer uma ligação :)
+
 ---
 
 ## Privado por natureza
@@ -154,8 +141,8 @@ realmente pareça seu.
 O Harbor foi criado pensando em uma experiência mais pessoal e privada.
 
 A comunicação entre os dispositivos foi pensada para acontecer diretamente
-sempre que possível, evitando transformar uma conversa entre duas pessoas
-em algo desnecessariamente público.
+sempre que possível, não há servidor transportando arquivos ou mensagens, tudo é criptografado de ponta a ponta
+garantindo ao máximo a sua segurança.
 
 ---
 
@@ -178,15 +165,6 @@ Mais plataformas poderão chegar no futuro.
 
 ## Baixar
 
-As versões oficiais do Harbor são distribuídas separadamente do código-fonte.
-
-### Harbor Releases
-
-O repositório oficial de distribuição contém os arquivos necessários para
-instalação e atualização do Harbor:
-
-**[Abrir Harbor Releases](https://github.com/Joshua-lvt/Harbor-Releases)**
-
 Para baixar diretamente a versão mais recente:
 
 **[Baixar a versão mais recente](https://github.com/Joshua-lvt/Harbor-Releases/releases/latest)**
@@ -201,16 +179,6 @@ As versões oficiais são publicadas no repositório de Releases, que também
 serve como fonte para o sistema de atualização do aplicativo.
 
 **[Ver todas as versões](https://github.com/Joshua-lvt/Harbor-Releases/releases)**
-
----
-
-## Código-fonte
-
-O desenvolvimento do Harbor acontece neste repositório.
-
-Aqui estão o código e os componentes utilizados para construir o projeto.
-
-**[Acessar o código-fonte](https://github.com/Joshua-lvt/Harbor)**
 
 ---
 
@@ -235,6 +203,6 @@ O objetivo não é criar apenas mais um aplicativo de comunicação.
 
 <br>
 
-<img src="./assets/harbor-icon.png" width="70" alt="Harbor">
+<img src="./harbor.png" width="70" alt="Harbor">
 
 </div>
