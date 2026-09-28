@@ -14,7 +14,6 @@ Um espaço feito para aproximar quem importa, mesmo quando vocês estão longe.
 &nbsp;&nbsp;•&nbsp;&nbsp;
 [Harbor Releases](https://github.com/Joshua-lvt/Harbor-Releases)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[Código-fonte](https://github.com/Joshua-lvt/Harbor)
 
 </div>
 
