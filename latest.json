@@ -1,33 +1,33 @@
 {
-  "version": "0.4.0",
-  "notes": "STUN para conectar entre redes diferentes, P2P prioritário com tentativas ICE estendidas e fallback TURN autenticado somente para presença, texto e controles pequenos. Chamadas, vídeo e arquivos continuam exclusivos do P2P direto. Inclui correções de áudio, vídeo e widgets no AppImage Linux.",
+  "version": "0.4.1",
+  "notes": "Corrige a reinicialização da negociação P2P, adiciona IPv6 direto, corrige a interface de origem do STUN e estende tentativas ICE. TURN continua restrito a presença, texto e controles pequenos após esgotar os caminhos diretos. Atualize os dois lados para aproveitar o IPv6.",
   "assets": {
     "linux-x86_64": {
       "file": "harbor-linux-x86_64.AppImage",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.0/harbor-linux-x86_64.AppImage",
-      "sha256": "cb2173f470e4d52468d4172080bb85cfe4d42692eba5f2803e08f592dc5cbb5f",
-      "size": 127425016,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.1/harbor-linux-x86_64.AppImage",
+      "sha256": "d57acf2a0ccdefd1765451ee6d2dbc8caad2e9ecd8333f4a8f620f44f660e9e3",
+      "size": 127437304,
       "kind": "binary"
     },
     "windows-x86_64": {
       "file": "harbor-windows-x86_64-setup.exe",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.0/harbor-windows-x86_64-setup.exe",
-      "sha256": "97c3fe295415555f34aa83d4df0d0a19dc4633b2444d2ad3339d8d941975a05c",
-      "size": 12663479,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.1/harbor-windows-x86_64-setup.exe",
+      "sha256": "deb120b241a2a4b77b8b4b96fbcfcb2bf7aeffdc630a09423d58584a0dc61d8b",
+      "size": 18383864,
       "kind": "installer"
     },
     "android-arm64": {
       "file": "harbor-android-arm64.apk",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.0/harbor-android-arm64.apk",
-      "sha256": "482895e6a894a6d9d7c921eb9ce1c68ffe07620a899aeecedfc1ffb52ebfeec9",
-      "size": 63084566,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.1/harbor-android-arm64.apk",
+      "sha256": "977af5b302f39f857b29378e4bffba2b7915a76877baaf5ac71d1e2f6cafe210",
+      "size": 62773274,
       "kind": "binary"
     },
     "android-x86_64": {
       "file": "harbor-android-x86_64.apk",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.0/harbor-android-x86_64.apk",
-      "sha256": "ad4cabf9e554e9a6614b0e9def4ea11f66d4bb84e99e5a94eaf27399b07edb96",
-      "size": 63839093,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.1/harbor-android-x86_64.apk",
+      "sha256": "1082cbb10e06c95b7c59021b9f0ab297fa78b4f2df2784f5834413edb2f90d37",
+      "size": 63871865,
       "kind": "binary"
     }
   }
