@@ -1,34 +1,34 @@
 {
-  "version": "0.4.2",
-  "notes": "Nova arquitetura server-first: toda a comunicacao passa pelo Harbor Relay na mesma conexao WebSocket do pareamento. STUN e TURN removidos do fluxo e do servidor; apenas HTTPS/WSS. Multi-dispositivo por identidade, chamadas, screen share e transferencia de arquivos pelo relay. Atualize os dois lados.",
   "assets": {
-    "linux-x86_64": {
-      "file": "harbor-linux-x86_64.AppImage",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.2/harbor-linux-x86_64.AppImage",
-      "sha256": "62fb42df43aab8e031580b0f434bf67591190a4d23978435d116fc3d52724d2f",
-      "size": 127056376,
-      "kind": "binary"
-    },
-    "windows-x86_64": {
-      "file": "harbor-windows-x86_64-setup.exe",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.2/harbor-windows-x86_64-setup.exe",
-      "sha256": "c8f9f37769f7be32b015e6509325886f9a282621cd3cf68da97133e553ba43c1",
-      "size": 18141995,
-      "kind": "installer"
-    },
     "android-arm64": {
       "file": "harbor-android-arm64.apk",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.2/harbor-android-arm64.apk",
-      "sha256": "33a896c35e5854facc7bb1d2212942579894b4baaef7cb451e4e0b9f2cf20091",
-      "size": 62068758,
-      "kind": "binary"
+      "kind": "binary",
+      "sha256": "a7669cb7eb524d4138237ba8e3ae12ed3905b0500fb0b7356bb174d5d5345b8c",
+      "size": 62019610,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.3/harbor-android-arm64.apk"
     },
     "android-x86_64": {
       "file": "harbor-android-x86_64.apk",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.2/harbor-android-x86_64.apk",
-      "sha256": "131bead41a18c9a6479cc8b8a3b0ad916808de889aedf3c325d49fd6feac9611",
-      "size": 62970741,
-      "kind": "binary"
+      "kind": "binary",
+      "sha256": "feaee80210948f029fd80116618aea697ee2e3e33998351c803abd9def659604",
+      "size": 62970745,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.3/harbor-android-x86_64.apk"
+    },
+    "linux-x86_64": {
+      "file": "harbor-linux-x86_64.AppImage",
+      "kind": "binary",
+      "sha256": "e9e27189df4c0b42f6c0d67a7b74571859ae61d36360cb7c207a21b5407a0572",
+      "size": 127048184,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.3/harbor-linux-x86_64.AppImage"
+    },
+    "windows-x86_64": {
+      "file": "harbor-windows-x86_64-setup.exe",
+      "kind": "installer",
+      "sha256": "a8d41b140f5245a0799ea18e86dfa1dbe9c239b91e679b595016b3683f7e9497",
+      "size": 18142921,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.3/harbor-windows-x86_64-setup.exe"
     }
-  }
+  },
+  "notes": "Correcao da tela de Atividade/Historico: a linha do tempo usa a fonte mais recente com segmentos em disco quando a topologia do parceiro ainda nao resolveu. Mesmo relay server-first da 0.4.2, sem mudanca de protocolo. Atualize os dois lados.",
+  "version": "0.4.3"
 }
