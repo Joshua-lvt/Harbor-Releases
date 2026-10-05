@@ -1,32 +1,32 @@
 {
-  "version": "0.4.4",
-  "notes": "Deteccao de conexao morta via Pong (~60s sem resposta) com reconnect rapido, mais TCP keepalive contra quedas silenciosas de NAT. Mesmo relay server-first, sem mudanca de protocolo. Atualize os dois lados.",
+  "version": "0.4.5",
+  "notes": "Sinal de saida intencional: Sair pela bandeja avisa os parceiros (Fechou o Harbor as HH:MM). Widget do parceiro obedece ao heartbeat. Requer 0.4.5 nos dois lados para o recurso novo.",
   "assets": {
     "linux-x86_64": {
       "file": "harbor-linux-x86_64.AppImage",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.4/harbor-linux-x86_64.AppImage",
-      "sha256": "a675591eb6f5d37598f511901e135cb3159c0e49d135adb2dcc4f51e7f21ecbc",
-      "size": 127023608,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.5/harbor-linux-x86_64.AppImage",
+      "sha256": "4b83046f889db49dfa7ef3e602279c1c2e77a8188a73cf2dc5519ce7054ddcee",
+      "size": 127195640,
       "kind": "binary"
     },
     "windows-x86_64": {
       "file": "harbor-windows-x86_64-setup.exe",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.4/harbor-windows-x86_64-setup.exe",
-      "sha256": "2f74f65707211e65549c609a4ea425d903dfbcdb9579930e3b9f7dadb15f13fc",
-      "size": 18143100,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.5/harbor-windows-x86_64-setup.exe",
+      "sha256": "6f5d96baa8ec0d2cd62e9a4c9d740aea1d81d9cfd992c5f0962bbd5e43045604",
+      "size": 18139428,
       "kind": "installer"
     },
     "android-arm64": {
       "file": "harbor-android-arm64.apk",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.4/harbor-android-arm64.apk",
-      "sha256": "1c4aa3780ef5cc1e07bf4a77764f3b3155e008081aff9555af92582bf9158d9c",
-      "size": 62101526,
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.5/harbor-android-arm64.apk",
+      "sha256": "441cd418b3aee7bd7a459e570609079f05ac4c8cb8057a89059936b5206b5c75",
+      "size": 62035990,
       "kind": "binary"
     },
     "android-x86_64": {
       "file": "harbor-android-x86_64.apk",
-      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.4/harbor-android-x86_64.apk",
-      "sha256": "da4882b610625fd51f32f8954005b363ca897d455b4567249e55d021c869f137",
+      "url": "https://github.com/Joshua-lvt/Harbor-Releases/releases/download/v0.4.5/harbor-android-x86_64.apk",
+      "sha256": "d0e180c218a015ebc31cb8e4386d9cfbea47c03cad5828695d510bdd77b683b2",
       "size": 63036277,
       "kind": "binary"
     }
